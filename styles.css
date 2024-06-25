@@ -1,0 +1,17 @@
+/* styles.css **/
+
+.subsection.header {
+    color: blue;
+}
+
+.subsection#preview {
+    color: red;
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: black;
+}
