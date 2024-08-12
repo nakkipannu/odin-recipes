@@ -8,8 +8,12 @@ body {
 
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
 }
 
+* {
+    outline: 2px solid red;
+}
 
 .subsection.header {
     color: white;
@@ -53,6 +57,5 @@ li:hover {
 
 .element {
     max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
